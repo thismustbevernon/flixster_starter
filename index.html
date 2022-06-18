@@ -18,18 +18,23 @@
         <div>
             <form class = "form">
                 <label for = "search-form"> search movies</label>
-                <input type = "textbox"  id = "search-form" name = "searchterm" placeholder="Search movies" required>
+                <input type = "textbox"  id = "search-input" name = "searchterm" placeholder="Search movies" required>
                 <input type = "submit">
             </form>
+        </div>
+        <div>
+            <button id="close-search-btn">
+                Refresh
+            </button>
         </div>
     </nav>
 
 
-    <main class="displayed-movies">
+    <main class="displayed-movies" id = "movies-grid">
 
     </main>
 
-    <button class="load-more">load more results</button>
+    <button id="load-more-movies-btn" class="load-more">load more results</button>
     
 </body>
     
