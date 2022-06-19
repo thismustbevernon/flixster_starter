@@ -32,7 +32,7 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 #### STRETCH FEATURES
 
-- [ ] Deploy website using GitHub Pages. 
+- [x] Deploy website using GitHub Pages. 
 - [ ] Allow user to view more details about a movie within a popup.
 - [ ] Improve the user experience through CSS & animation.
 - [ ] Allow movie video trailers to be played using [embedded YouTube](https://support.google.com/youtube/answer/171780?hl=en)
@@ -40,9 +40,7 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
-
-`ADD_EMBEDDED_CODE_HERE`
+https://media.giphy.com/media/wlp2FK84hwL5XAa9eo/giphy.gif
 
 ### Reflection
 

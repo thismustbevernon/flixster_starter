@@ -47,6 +47,7 @@
     background-color: transparent; 
     border: none; 
     color:white;
+    cursor: pointer;
 
 }
 #close-search-btn{
@@ -54,18 +55,23 @@
     background-color: transparent; 
     border: none; 
     color:white;
+    cursor: pointer;
 }
 /*movie-card*/
 
 .movie-poster{
     height: 250px;
     width: 200px;
+  
+    border: 5px solid #555;
 
 }
 
 #movie-card{
     padding: 20px;
     width: 200px;
+   
+
 }
 
 
@@ -81,6 +87,17 @@
     /*padding-top:200px;*/
 }
 
+#star{
+    color: gold;
+}
+
+#votes{
+    
+}
+
+#movie_title{
+
+}
 
 
 
@@ -93,6 +110,7 @@
     position:absolute;
     background-color:darkslategray;
     color:white; 
+    cursor: pointer;
 
 }
 
@@ -107,3 +125,6 @@
     margin-top: 3em;
     margin-bottom: 1em;
 }
+
+
+
