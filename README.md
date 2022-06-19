@@ -1,4 +1,3 @@
-
 ## Week 1 Assignment: Flixster
 
 Submitted by: **NAME**

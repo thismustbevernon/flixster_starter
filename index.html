@@ -6,35 +6,34 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="style.css" />
+    <script src="https://kit.fontawesome.com/6c2ccc5a6a.js" crossorigin="anonymous"></script>
 </head>
 <body>
-    <nav class = "navigation">
-        <div>
+    <div class = "navigation">
+        <h1 class="logo">
             Flixter
-        </div>
-        <div>
+        </h1>
+        <h1 class="current">
             Current Movies
-        </div>
-        <div>
-            <form class = "form">
-                <label for = "search-form"> search movies</label>
-                <input type = "textbox"  id = "search-input" name = "searchterm" placeholder="Search movies" required>
-                <input type = "submit">
-            </form>
-        </div>
-        <div>
-            <button id="close-search-btn">
-                Refresh
-            </button>
-        </div>
-    </nav>
+        </h1>
+
+        <form class = "form">
+            <label for = "search-form"></label>
+            <input type = "textbox"  id = "search-input" name = "searchterm" placeholder="Search movies" required>
+            <button type = "submit" id = "search-button"><i class="fa-solid fa-magnifying-glass fa-2x"></i></button> 
+            <button id="close-search-btn"><i class="fa fa-close fa-2x" ></i></button>
+        </form>
+     
+    </div>
 
 
     <main class="displayed-movies" id = "movies-grid">
 
     </main>
-
-    <button id="load-more-movies-btn" class="load-more">load more results</button>
+    <div class="more">
+        <button id="load-more-movies-btn" class="load-more">load more results</button>
+        <img id="attribution" src="https://www.themoviedb.org/assets/2/v4/logos/v2/blue_long_1-8ba2ac31f354005783fab473602c34c3f4fd207150182061e425d366e4f34596.svg" >
+    </div>
     
 </body>
     

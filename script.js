@@ -24,6 +24,7 @@ const nowPlaying= `https://api.themoviedb.org/3/movie/now_playing?api_key=7464e5
 const movieContainer = document.querySelector (".displayed-movies")
 var formElement = document.querySelector(".form")
 var loadMore = document.querySelector(".load-more")
+var closeIcon = document.querySelector("#close-search-btn")
 
 
 formElement.addEventListener("submit",async (ev)=>{
@@ -114,6 +115,12 @@ function displayCurrentMovies (res){
         `    
     })
 }
+
+
+
+closeIcon.addEventListener("click",async (ev)=>{
+    location.reload();
+})
 
 window.onload =() => { 
 

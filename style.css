@@ -1,1 +1,109 @@
+/*navigation bar styling*/
 
+
+.navigation{
+
+    display: flex;
+    background-color: dimgrey;
+  
+
+    background-color: rgb(70, 70, 70);
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+    display: flex;
+    align-items: flex-end;
+    flex-wrap: wrap;
+
+}
+
+
+.logo {
+    padding:10px;
+    color:white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.current{
+    padding: 10px;
+    color:white;
+}
+.form{
+    margin-left:50%;
+    display: flex;
+    padding: 10px;
+}
+#search-input{
+    flex-grow: 10;
+    flex-shrink: 1;
+    flex-basis: 0%;
+    padding: 10px;
+
+   
+}
+#search-button{
+    padding: 10px;
+    margin-right: 0.5em;
+    margin-left: 0.5em;
+    background-color: transparent; 
+    border: none; 
+    color:white;
+
+}
+#close-search-btn{
+    padding: 10px;
+    background-color: transparent; 
+    border: none; 
+    color:white;
+}
+/*movie-card*/
+
+.movie-poster{
+    height: 250px;
+    width: 200px;
+
+}
+
+#movie-card{
+    padding: 20px;
+    width: 200px;
+}
+
+
+
+/*movie-grid*/
+
+#movies-grid{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: center;
+   
+    /*padding-top:200px;*/
+}
+
+
+
+
+/*load-more*/
+
+#load-more-movies-btn{
+    padding-left: 30px;
+    font-size: medium;
+    font-family: sans-serif;
+    position:absolute;
+    background-color:darkslategray;
+    color:white; 
+
+}
+
+.more{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#attribution{
+    width: 300px;
+    margin-top: 3em;
+    margin-bottom: 1em;
+}
