@@ -41,7 +41,7 @@ Deployed Application (optional): [Flixster Deployed Site](https://thismustbevern
 ### Walkthrough Video
 
 
-![](https://media.giphy.com/media/wu6MPWoUR6jc8fLiVK/giphy.gif)
+![](https://media.giphy.com/media/J46uKUACiZJWpAoNzD/giphy.gif)
 
 ### Reflection
 
