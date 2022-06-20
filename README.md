@@ -40,8 +40,8 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-![](https://media.giphy.com/media/1YmE1fBcrmJvaL5m7T/giphy.gif)
-![](https://media.giphy.com/media/l9qHMTQ4Tip7XsmTv9/giphy.gif)
+
+![](https://media.giphy.com/media/wu6MPWoUR6jc8fLiVK/giphy.gif)
 
 ### Reflection
 
