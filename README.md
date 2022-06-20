@@ -39,7 +39,8 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 - [ ] Implement anything else that you can get done to improve the app functionality!
 
 ### Walkthrough Video
-https://giphy.com/gifs/IcmRrB5gnVPcU6U52x
+
+![](https://media.giphy.com/media/1YmE1fBcrmJvaL5m7T/giphy.gif)
 ![](https://media.giphy.com/media/l9qHMTQ4Tip7XsmTv9/giphy.gif)
 
 ### Reflection
