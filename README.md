@@ -42,7 +42,7 @@ Deployed Application (optional): [Flixster Deployed Site](https://thismustbevern
 
 
 ![](https://media.giphy.com/media/amIpveGkCOYu3wI9cH/giphy.gif)
-
+https://media.giphy.com/media/GRS0e6p6Jvdf4Pkix4/giphy.gif
 
 ### Reflection
 
